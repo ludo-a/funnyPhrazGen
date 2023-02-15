@@ -1,0 +1,15 @@
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.csproj.AssemblyReference.cache
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.AssemblyInfoInputs.cache
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.AssemblyInfo.cs
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.csproj.CoreCompileInputs.cache
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.exe
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.deps.json
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.runtimeconfig.json
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.dll
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\bin\Debug\net6.0\generateur_phrases_aleatoires.pdb
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.dll
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\refint\generateur_phrases_aleatoires.dll
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.pdb
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\generateur_phrases_aleatoires.genruntimeconfig.cache
+C:\Users\ladach\Desktop\projet_cs\generateur_phrases_aleatoires\generateur_phrases_aleatoires\obj\Debug\net6.0\ref\generateur_phrases_aleatoires.dll
